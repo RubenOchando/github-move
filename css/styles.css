@@ -1,0 +1,17 @@
+body{
+    background-color: papayawhip;
+}
+hr {
+    border: dotted grey;
+    border-width: 0.0 0 7px;
+    width: 5%;
+}
+h1{
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: gray;
+}
